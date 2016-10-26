@@ -6,7 +6,7 @@ image_resource:
 
 inputs:
   - name: pipelines
-  - name: bosh-release
+#  - name: bosh-release
   - name: cpi-release
   - name: stemcell
   - name: environment
